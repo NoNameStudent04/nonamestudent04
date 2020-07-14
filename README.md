@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 | NoNameStudent04's GitHub.
+Hello guys.
 
-<!--
-**NoNameStudent04/nonamestudent04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm living on Gwangju, Republic of Korea.
 
-Here are some ideas to get you started:
+my favorite is IT Device and Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Status
+ - Python : Learning
+ - JavaScript : no, i can't
+ - HTML : Soooo basic?
+ - Other : idk
+
+### My Website
+ - GitHub : https://github.com/NoNameStudent04
+ - Naver Blog : https://blog.naver.com/sy78001
+ - YouTube : Coming soon.
+ 
+### Thanks for Reading my github. 🙏🙏
