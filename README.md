@@ -1,7 +1,7 @@
 ### 👋 | NoNameStudent04's GitHub.
 Hello guys.
 
-I'm living on Gwangju, Republic of Korea.
+I'm living on Republic of Korea.
 
 my favorite is IT Device and Development.
 
