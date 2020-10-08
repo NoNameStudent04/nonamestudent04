@@ -13,6 +13,7 @@ my favorite is IT Device and Development.
 
 # Bot Server
  - Raspberry Pi 4 2GB
+ - IBM X3250 M4/ Rack server(1U)
 
 ### My Website
  - GitHub : https://github.com/NoNameStudent04
