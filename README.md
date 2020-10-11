@@ -12,8 +12,8 @@ my favorite is IT Device and Development.
  - Other : idk
 
 # Bot Server
- - Raspberry Pi 4 2GB
- - IBM X3250 M4/ Rack server(1U)
+ - Raspberry Pi 4 2GB (Ubuntu Server 20.04)
+ - IBM X3250 M4 / Rack server(1U) (Windows 7 SP1, Windows Server로 변경 예정)
 
 ### My Website
  - GitHub : https://github.com/NoNameStudent04
