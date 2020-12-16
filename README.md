@@ -1,23 +1,23 @@
-### 👋 | NoNameStudent04's GitHub.
-Hello guys.
+# Hello
+I'm high school developer and live in south korea.
 
-I'm living on Republic of Korea.
+## Contact
+* Discord : :)
+* E-mail : clicktoreturns@kakao.com
 
-my favorite is IT Device and Development.
+## Programing Language
+* Python(Only bot.. lmao)
 
-### Learning Status
- - Python : Learning
- - JavaScript : no, i can't
- - HTML : Soooo basic?
- - Other : idk
+## What is my default IDE?
+* VSC (Visual Studio Code)
+* Sublime Text 3
 
-# Bot Server
- - Raspberry Pi 4 2GB (Ubuntu Server 20.04)
- - IBM X3250 M4 / Rack server(1U) (Windows 7 SP1, Windows Server로 변경 예정)
+## Server
+* Web : RPI 4 2G / Ubuntu Server 20.10
+* Game(Minecraft) : IBM X3250 M4 1U / Windows Server 2019
 
-### My Website
- - GitHub : https://github.com/NoNameStudent04
- - Naver Blog : https://blog.naver.com/sy78001
- - YouTube : Coming soon.
- 
-### Thanks for Reading and Visit my github. 🙏🙏
+## Hobby
+* Gaming(Minecraft, Among Us, Overwatch, CS: GO, PUBG, ADOFAI - A Dance Of Fire And Ice)
+* Developing
+* Video edit
+* Listen to music
