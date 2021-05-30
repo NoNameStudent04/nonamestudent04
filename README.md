@@ -5,7 +5,7 @@ My age is 18. 📖
 
 # Using language (Speaking)
  * Korean(🇰🇷)
- * English(🇺🇸) #Little..Little..Little... 😥
+ * English(🇺🇸) #Little..Little..Little... 😥 → A little bit..
 
 # Using language (Development)
  * Python
