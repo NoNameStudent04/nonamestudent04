@@ -11,5 +11,5 @@ My age is 18. 📖
  * Python
  * ? #Learning 😥
 
-Thank you visit my GitHub Profile! 😀
+Thank you visiting my GitHub Profile! 😀
 ---
